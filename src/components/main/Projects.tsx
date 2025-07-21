@@ -17,7 +17,7 @@ const StyledWrapper = styled.div`
     flex-direction: column;
     align-items: center;
     width: 100vw;
-    background-image: url('/public/try.jpeg');
+    background-image: url('/try.jpeg');
     height: 100vh;
 `
 const StyledNav=styled.nav`
