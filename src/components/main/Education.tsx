@@ -108,7 +108,7 @@ export default function Education() {
                     <EducationLi> Paramus Catholic, 2019-2023
                         <PcSep><PcBio> I attended Paramus Catholic for
                         four years, In those years, I participated in sports, clubs, and developed my love for computer
-                        science.</PcBio><Image src="../../../public/pc.png" alt="Paramus Catholic"/>
+                        science.</PcBio><Image src="/pc.png" alt="Paramus Catholic"/>
                         </PcSep>
                     </EducationLi>
                     <EducationLi> Boston University, 2023-Present
@@ -116,7 +116,7 @@ export default function Education() {
                             <BuBio>I am currently attending, Boston
                             University. I am double majoring in computer science and Economics. At BU, I have become very
                             involved in the Sigma Chi fraternity. I currently hold the position of vice president.</BuBio>
-                            <Image src="../../../public/bu.png" alt="Boston University"/>
+                            <Image src="/bu.png" alt="Boston University"/>
                         </BuSep>
                     </EducationLi>
                     <EducationLi> Relevant Course Work, Boston University

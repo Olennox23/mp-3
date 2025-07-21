@@ -71,7 +71,7 @@ export default function Home() {
             <div id="top">
                 <StyledH2>Home</StyledH2>
                 <StyledBottom>
-                    <StyledImg src="../../../public/131981151_h1ywng57be copy.jpg" alt="Owen Lennox"/>
+                    <StyledImg src="/131981151_h1ywng57be copy.jpg" alt="Owen Lennox"/>
                     <StyledBio> My name is Owen Lennox, and I am a rising junior at Boston university double majoring in
                         computer Science and Economics. I would like to advance my career by getting into the banking
                         industry.</StyledBio>
