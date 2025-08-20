@@ -99,7 +99,7 @@ export default function Exp() {
                         <tr>
                             <StyledTd>Helens Leather</StyledTd>
                             <StyledTd> Cashier</StyledTd>
-                            <StyledTd>Junen, 2025 - Present</StyledTd>
+                            <StyledTd>June, 2025 - Present</StyledTd>
                         </tr>
                     </tbody>
                 </StyledTable>
