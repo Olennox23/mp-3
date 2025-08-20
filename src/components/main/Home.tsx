@@ -73,12 +73,11 @@ export default function Home() {
                 <StyledBottom>
                     <StyledImg src="/131981151_h1ywng57be copy.jpg" alt="Owen Lennox"/>
                     <StyledBio> My name is Owen Lennox, and I am a rising junior at Boston university double majoring in
-                        computer Science and Economics. I would like to advance my career by getting into the banking
-                        industry.</StyledBio>
+                        computer Science and Economics.</StyledBio>
                 </StyledBottom>
 
                 <StyledIntro> Welcome to my website. On this website, you will find information about my former
-                    employment, achievments, and other information about myself.</StyledIntro>
+                    employment, achievements, and other information about myself.</StyledIntro>
             </div>
         </StyledMain>
     );
